@@ -1,0 +1,6 @@
+---
+ram: 1024
+
+suse_register:
+  email: <your-email>
+  regcode-sles: <your-regcode>
